@@ -1,6 +1,6 @@
 <h1 align="center">Kennan Grant</h1>
-<h2 align="center" margin-top=50px>Backend Developer | Software Engineer</h2>
-<p align="center" margin-top=50px>I build performant, maintainable backend systems</p>
+<h2 align="center" margin-bottom=50px>Backend Developer | Software Engineer</h2>
+<p align="center" margin-bottom=50px>I build performant, maintainable backend systems</p>
 
 ...and make my daughter laugh, watch movies with my wife, read interesting books, and some other stuff...
 
