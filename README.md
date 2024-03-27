@@ -1,20 +1,19 @@
-# Kennan Grant
-## Backend Developer | Software Engineer
+<h1 align="center">Kennan Grant</h1>
+<h2 align="center">Backend Developer | Software Engineer</h2>
+<p align="center">I build performant, maintainable backend systems.</p>
 
-I build performant, maintainable backend systems.
-
-**Specialization**
+**Specialization**  
 - AWS, Java, SQL
 
-**Projects**
+**Projects**  
 - Scalable backend systems and data-driven solutions
 
-**Education**
-- **BloomTech**: [Backend Developer](https://www.bloomtech.com/courses/backend-development)
-- **University of Virginia**:
+**Education**  
+- **BloomTech**: [Backend Developer](https://www.bloomtech.com/courses/backend-development)  
+- **University of Virginia**: 
   - M.S. in Data Science
   - M.S. in Commerce
   - B.A. in English Literature
 
-**Connect**
+**Connect**  
 - [LinkedIn](https://www.linkedin.com/in/kennan-grant/)
