@@ -10,7 +10,8 @@
 - Scalable backend systems and data-driven solutions
 
 ### Education
-  - **[BloomTech](https://www.bloomtech.com/courses/backend-development)**:
+- **[BloomTech]**:
+  - [Backend Developer](https://www.bloomtech.com/courses/backend-development)
 - **University of Virginia**:
   - M.S. in Data Science
   - M.S. in Commerce
