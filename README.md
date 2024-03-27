@@ -2,17 +2,17 @@
 <h2 align="center">Backend Developer | Software Engineer</h2>
 <p align="center">I build performant, maintainable backend systems.</p>
 
-<h3 style="margin-bottom: 10px;">Specialization</h3>
+<h3 style="margin-bottom: 0px;">Specialization</h3>
 <ul>
   <li><strong>AWS</strong>, <strong>Java</strong>, <strong>SQL</strong></li>
 </ul>
 
-<h3 style="margin-bottom: 10px;">Projects</h3>
+<h3 style="margin-bottom: 0px;">Projects</h3>
 <ul>
   <li>Scalable backend systems and data-driven solutions</li>
 </ul>
 
-<h3 style="margin-bottom: 10px;">Education</h3>
+<h3 style="margin-bottom: 0px;">Education</h3>
 <ul>
   <li><strong>BloomTech</strong>:
     <ul>
