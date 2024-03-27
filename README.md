@@ -1,16 +1,14 @@
-### Hi there 👋
+# Kennan Grant
 
-<!--
-**kennan-grant/kennan-grant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer | Software Engineer
 
-Here are some ideas to get you started:
+- **Specialization**: AWS, Java, SQL
+- **Projects**: Scalable backend systems, data-driven solutions
+- **Training**: BloomTech (Backend Development), University of Virginia (M.S. in Data Science, M.S. in Commerce)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Focused on crafting performant, maintainable backend systems
+
+**Connect**:
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kennan-grant/)
+
+
