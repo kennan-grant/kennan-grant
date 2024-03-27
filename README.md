@@ -10,13 +10,11 @@
 - Scalable backend systems and data-driven solutions
 
 ### 🎓 Education
-- **BloomTech**:
-  - Backend Development
+  - **[BloomTech](https://www.bloomtech.com/courses/backend-development)**:
 - **University of Virginia**:
   - M.S. in Data Science
   - M.S. in Commerce
   - B.A. in English Literature
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kennan-grant/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-</p>
+### Connect
+- [LinkedIn](https://www.linkedin.com/in/kennan-grant/)
