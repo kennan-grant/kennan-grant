@@ -3,13 +3,13 @@
 
 <p align="center">I build performant, maintainable backend systems.</p>
 
-### 🛠 Specialization
+### Specialization
 - **AWS**, **Java**, **SQL**
 
-### 📁 Projects
+### Projects
 - Scalable backend systems and data-driven solutions
 
-### 🎓 Education
+### Education
   - **[BloomTech](https://www.bloomtech.com/courses/backend-development)**:
 - **University of Virginia**:
   - M.S. in Data Science
