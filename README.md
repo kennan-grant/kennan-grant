@@ -1,5 +1,5 @@
 # Kennan Grant
-## Backend Developer | Software Engineer
+### Backend Developer | Software Engineer
 
 I build performant, maintainable backend systems
 
