@@ -1,5 +1,4 @@
 <h1 align="center">Kennan Grant</h1>
-<br>
 <h2 align="center">Backend Developer | Software Engineer</h2>
 <p align="center">I build performant, maintainable backend systems</p>
 
