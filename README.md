@@ -2,7 +2,7 @@
 <h2 align="center">Backend Developer | Software Engineer</h2>
 <p align="center">I build performant, maintainable backend systems.</p>
 
-(...and make my daughter laugh, watch movies with my wife, read interesting books, and some other stuff...)
+...and make my daughter laugh, watch movies with my wife, read interesting books, and some other stuff...
 
 ***Specialization:*** AWS, Java, SQL  
 ***Projects:*** Scalable backend systems and data-driven solutions  
