@@ -3,7 +3,7 @@
 
 I build performant, maintainable backend systems
 
-...and make my daughter laugh, watch movies with my wife, read interesting books, and some other stuff...
+...and make my daughter laugh, watch movies with my wife, read interesting books, and other things...
 
 ***Specialization:*** AWS, Java, SQL  
 ***Projects:*** Scalable backend systems and data-driven solutions  
