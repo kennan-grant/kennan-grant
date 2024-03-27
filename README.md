@@ -4,7 +4,7 @@ Backend Developer | Software Engineer
 
 - **Specialization**: AWS, Java, SQL
 - **Projects**: Scalable backend systems, data-driven solutions
-- **Training**: BloomTech (Backend Development), University of Virginia (M.S. in Data Science, M.S. in Commerce)
+- **Training**: BloomTech (Backend Development), University of Virginia (M.S. in Data Science, M.S. in Commerce, B.A. in English Literature)
 
 Focused on crafting performant, maintainable backend systems
 
