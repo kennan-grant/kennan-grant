@@ -1,6 +1,7 @@
-<h1 align="center">Kennan Grant</h1>
-<h2 align="center">Backend Developer | Software Engineer</h2>
-<p align="center">I build performant, maintainable backend systems</p>
+# Kennan Grant
+## Backend Developer | Software Engineer
+
+I build performant, maintainable backend systems
 
 ...and make my daughter laugh, watch movies with my wife, read interesting books, and some other stuff...
 
