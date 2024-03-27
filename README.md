@@ -7,7 +7,7 @@
 - **AWS**, **Java**, **SQL**
 
 ### 📁 Projects
-Scalable backend systems and data-driven solutions
+- Scalable backend systems and data-driven solutions
 
 ### 🎓 Education
 - **BloomTech**:
