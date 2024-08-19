@@ -1,7 +1,7 @@
 # Kennan Grant
 ## Software Engineer, Machine Learning and Data Engineering
 
-Solve the rigbt problem in the right way
+Solve the right problem in the right way
 
 ***Specialization:*** ???  
 ***Projects:*** ???  
